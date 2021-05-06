@@ -1,4 +1,4 @@
-# first_app
+# Personality Check
 
 A new Flutter application "Personality-Check Quiz".
 
